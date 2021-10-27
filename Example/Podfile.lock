@@ -1,0 +1,16 @@
+PODS:
+  - MyFlutterFramework (0.1.0)
+
+DEPENDENCIES:
+  - MyFlutterFramework (from `../`)
+
+EXTERNAL SOURCES:
+  MyFlutterFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyFlutterFramework: 3df6fc16fa176637eb1515667c1696c47efcbb12
+
+PODFILE CHECKSUM: 6b80cdcff6c1c839c0984fc353431ba12911613b
+
+COCOAPODS: 1.10.1
