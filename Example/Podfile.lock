@@ -1,5 +1,5 @@
 PODS:
-  - MyFlutterFramework (0.1.0)
+  - MyFlutterFramework (0.1.1)
 
 DEPENDENCIES:
   - MyFlutterFramework (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MyFlutterFramework: 3df6fc16fa176637eb1515667c1696c47efcbb12
+  MyFlutterFramework: 61a9fd07faf8ef6d393989112f8ef2f67aaa7bb5
 
 PODFILE CHECKSUM: 6b80cdcff6c1c839c0984fc353431ba12911613b
 
