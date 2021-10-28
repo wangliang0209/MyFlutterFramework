@@ -31,7 +31,6 @@
 		7D8B36471D165707828C19AC /* Pods-MyFlutterFramework_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyFlutterFramework_Tests.release.xcconfig"; path = "Target Support Files/Pods-MyFlutterFramework_Tests/Pods-MyFlutterFramework_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		9C76246BD0542450B9085D60 /* MyFlutterFramework.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MyFlutterFramework.podspec; path = ../MyFlutterFramework.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E62AEB5C33AB672532F73447 /* Pods-MyFlutterFramework_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyFlutterFramework_Tests.debug.xcconfig"; path = "Target Support Files/Pods-MyFlutterFramework_Tests/Pods-MyFlutterFramework_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		EF1D101127297AF1003591FC /* Flutter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Flutter.framework; sourceTree = "<group>"; };
 		EF1D101227297AF2003591FC /* App.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = App.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -124,7 +123,6 @@
 			isa = PBXGroup;
 			children = (
 				EF1D101227297AF2003591FC /* App.framework */,
-				EF1D101127297AF1003591FC /* Flutter.framework */,
 			);
 			path = ios_frameworks;
 			sourceTree = "<group>";
